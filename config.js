@@ -7,8 +7,8 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['94767939688', 'Dinuwa Official²⁰²³', true],
-  ['94767939688', 'Dinuwa Official²⁰²³', true], 
+  ['918761888106', '⚡𝘿𝞢𝞑𝞓𝙏𝞢𝙅🍷, true],
+ 
   [''] 
 ] //Number of owners
 
@@ -47,23 +47,23 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '💝 Queen Hentai 💝'
+global.botname = 'HERObriNe-MD'
 global.premium = 'true'
-global.packname = '💝 Queen Hentai 💝 Created By 💝 Dinuwa Official²⁰²³ 💝' 
-global.author = '💝 Dinuwa Official²⁰²³ 💝' 
-global.igfg = '▢ Follow on Facebook\https://www.facebook.com/profile.php?id=61551915615888\n' 
-global.dygp = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
-global.fgsc = 'https://github.com/dinuwah/QUEEN-HENTAI' 
-global.fgyt = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
-global.fgpyp = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
-global.fglog = 'https://i.ibb.co/T1DqdYz/thumbnail.jpg' 
+global.packname = 'HEY GUYS, WELCOME TO STICKER EMPIRE🫣 Created By [SUBARU]' 
+global.author = '⚡𝘿𝞢𝞑𝞓𝙏𝞢𝙅🍷 ' 
+global.igfg = '\n' 
+global.dygp = 'https://whatsapp.com/channel/0029Vakxzdf7oQhll9dE2S0t'
+global.fgsc = 'https://github.com/Debatej2299q' 
+global.fgyt = 'https://whatsapp.com/channel/0029Vakxzdf7oQhll9dE2S0t'
+global.fgpyp = 'https://whatsapp.com/channel/0029Vakxzdf7oQhll9dE2S0t'
+global.fglog = '' 
 
 
-global.wait = '*💝 _Waiting Bro Uploading by 💝 Queen Hentai 💝..._*'
-global.rwait = '🇱🇰'
+global.wait = '*🍷 _Waiting Bro Uploading by HERObriNe-MD..._*'
+global.rwait = '🇮🇳'
 global.dmoji = '🤣'
-global.done = '👍'
-global.error = '👎' 
+global.done = '🫣'
+global.error = '🤕' 
 global.xmoji = '🫶' 
 
 global.multiplier = 69 
